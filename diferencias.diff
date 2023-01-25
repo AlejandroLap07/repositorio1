@@ -1,0 +1,20 @@
+diff --git a/fichero.txt b/fichero.txt
+new file mode 100644
+index 0000000..d3f5a12
+--- /dev/null
++++ b/fichero.txt
+@@ -0,0 +1 @@
++
+diff --git a/fichero.txt.txt b/fichero.txt.txt
+deleted file mode 100644
+index e69de29..0000000
+diff --git a/fichero.txt b/fichero.txt
+new file mode 100644
+index 0000000..d3f5a12
+--- /dev/null
++++ b/fichero.txt
+@@ -0,0 +1 @@
++
+diff --git a/fichero.txt.txt b/fichero.txt.txt
+deleted file mode 100644
+index e69de29..0000000
